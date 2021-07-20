@@ -16,7 +16,6 @@
 - 🔭 Android Tech Lead at [XumaK](https://xumak.com/).
 - 🤓 An Android & Kotlin enthusiast.
 - 🇬🇹 [GDG Guatemala](https://gdg.community.dev/gdg-guatemala/) coorganizer.
-- 📚 [Universidad Galileo Developer Student Club](https://dsc.community.dev/universidad-galileo/) Lead.
 - 📺 [Guatemala Kotlin User Group](https://twitter.com/GuateKUG) organizer.
 - 💻 Love to share with local tech community.
 
