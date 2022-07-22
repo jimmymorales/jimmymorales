@@ -1,19 +1,16 @@
 ## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://twitter.com/JidomoGo">
-  <img align="left" alt="Jimmy's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Jimmy's Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1658521125~hmac=132a4efdc41981c053bd9a7985a1bec5" />
 </a>
-<a href="https://www.linkedin.com/in/jimmymorales26/">
-  <img align="left" alt="Jimmy's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/jimmymorales">
-  <img align="left" alt="Jimmy's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://www.linkedin.com/in/jimmydev/">
+  <img align="left" alt="Jimmy's Linkdein" width="22px" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256016.png?token=exp=1658521296~hmac=a9c08996afe983cba6522e911d73dbb9" />
 </a>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Jimmy Morales
-- 🔭 Android Tech Lead at [XumaK](https://xumak.com/).
+- 🔭 Android Tech Lead at [Gorilla Group](https://www.gorillagroup.com/).
 - 🤓 An Android & Kotlin enthusiast.
 - 🇬🇹 [GDG Guatemala](https://gdg.community.dev/gdg-guatemala/) coorganizer.
 - 📺 [Guatemala Kotlin User Group](https://twitter.com/GuateKUG) organizer.
