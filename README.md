@@ -18,7 +18,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Jimmy Morales
-- 🔭 Senior Manager & Technical Architect at [Gorilla Group](https://www.gorillagroup.com/).
+- 🔭 Senior Manager & Technical Architect at [Wunderman Thompson Apps](https://www.wundermanthompson.com/expertise/apps).
 - 🤓 An Android & Kotlin enthusiast.
 - 🇬🇹 [GDG Guatemala](https://gdg.community.dev/gdg-guatemala/) coorganizer.
 - 📺 [Guatemala Kotlin User Group](https://twitter.com/GuateKUG) organizer.
